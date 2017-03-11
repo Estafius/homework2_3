@@ -1,0 +1,14 @@
+{
+ "Омлет":{[
+      "ingridient_name" :{"Яйца"}
+	  "quantity" : {2}
+	  "measure" : {"шт"},
+	  "ingridient_name" :{"Молоко"}
+	  "quantity" : {50}
+	  "measure" : {"гр"},
+	  "ingridient_name" :{"Помидор"}
+	  "quantity" : {100}
+	  "measure" : {"мл"}]
+   }
+ 
+}
