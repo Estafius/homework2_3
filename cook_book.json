@@ -1,14 +1,27 @@
 {
- "Омлет":{[
-      "ingridient_name" :{"Яйца"}
-	  "quantity" : {2}
-	  "measure" : {"шт"},
-	  "ingridient_name" :{"Молоко"}
-	  "quantity" : {50}
-	  "measure" : {"гр"},
-	  "ingridient_name" :{"Помидор"}
-	  "quantity" : {100}
-	  "measure" : {"мл"}]
-   }
- 
+"Омлет": [{
+
+		"ingridient_name": "Яйца",
+		"quantity": 2, "measure": "шт"
+	}, {
+		"ingridient_name": "Молоко",
+		"quantity": 50, "measure": "гр"
+	}, {
+		"ingridient_name": "Помидор",
+		"quantity": 100, "measure": "мл"
+	}],
+"Стейк": [{
+
+		"ingridient_name": "Мясо",
+		"quantity": 2, "measure": "шт"
+	}, {
+		"ingridient_name": "Специи",
+		"quantity": 50, "measure": "гр"
+	}, {
+		"ingridient_name": "Масло",
+		"quantity": 100, "measure": "мл"
+	}]
+
+
+
 }
